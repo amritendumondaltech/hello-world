@@ -1,3 +1,3 @@
 # hello-world
 hello world repository
-I am Amritendu. I ike DotNet.
+I am Amritendu. I like DotNet.
